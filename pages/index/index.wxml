@@ -1,0 +1,17 @@
+<!--首页-->
+<view class="index">
+    <div class="list">
+        <div class="asd">
+            <view class="lisdownPic">
+                <image class="lisenimg"  src="/image/WechatIMG2.jpeg"></image>
+                <view class="describe">
+                    <view>蜂蜜款：淡化改善细纹，提拉紧致眼部肌肤，深层补水</view>
+                    <view>¥68</view>
+                </view>
+            </view>
+        </div>
+        <div class="asd"></div>
+        <div class="asd"></div>
+        <div class="asd"></div>
+    </div>
+</view>

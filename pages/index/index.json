@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "JM",
+    "usingComponents": {
+        "goindex": "/component/goindex/goindex"
+    }
+
+}

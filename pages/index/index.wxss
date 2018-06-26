@@ -1,0 +1,35 @@
+page{
+  background: #fff;
+}
+.index{
+  width: 100%;
+}
+.list{
+  width: 100%;
+  display: flex;
+  flex-wrap:wrap;
+  margin-top: 50rpx;
+}
+.asd{
+  background: #fff;
+  width: 41%;
+  height: 430rpx;
+  margin: 4% 6% 4% 6%;
+  box-sizing: border-box;
+  box-shadow: 5rpx 5rpx 5rpx #9a9a9a,5rpx -5rpx 5rpx #9a9a9a,-5rpx 5rpx 5rpx #9a9a9a,-5rpx -5rpx 5rpx #9a9a9a;
+  border-radius: 5rpx;
+}
+.asd:nth-child(odd){
+  margin-right: 3%;
+}
+.asd:nth-child(even){
+  margin-left: 3%;
+}
+.lisenimg{
+  width: 100%;
+  height: 300rpx;
+}
+.describe{
+  font-size: 20rpx;
+  padding: 10rpx;
+}
